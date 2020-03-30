@@ -31,6 +31,9 @@ npm run start
 - Moment.js
 
 ## Real-Time Viewing For Web Version
+The application was publised using [Heroku](https://www.heroku.com/).
 
-...coming soon
+Here is link to view the application:
+
+[Sushil Websocket Chat App](https://sus-websocket-chat-app.herokuapp.com/)
 
