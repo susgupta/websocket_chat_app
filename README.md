@@ -2,7 +2,9 @@
 
 Sushil G Websocket Chat App is **express socket.io app** designed to showcase a basic chat app using **websockets**. 
 
-The express app will host an in-memory socket chat application, and as well as the basic front-end.  
+The express app will host 
+- an in-memory socket chat application
+- the basic front-end for user chat interaction
 
 ## Running Application Locally
 
